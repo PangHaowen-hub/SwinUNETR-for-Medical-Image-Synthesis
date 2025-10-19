@@ -60,8 +60,8 @@ def test_one_case(val_folder, output_folder):
 
 
 if __name__ == '__main__':
-    val_path = r'ASNR-MICCAI-BraTS2023-GLI-Challenge-ValidationData_missT2w'
-    save_path = r'ASNR-MICCAI-BraTS2023-GLI-Challenge-ValidationData_missT2w_Syn'
+    val_path = r'ASNR-MICCAI-BraTS2023-GLI-Challenge-ValidationData_miss'
+    save_path = r'ASNR-MICCAI-BraTS2023-GLI-Challenge-ValidationData_miss_Syn'
     os.makedirs(save_path, exist_ok=True)
 
     val_path_list = os.listdir(val_path)
