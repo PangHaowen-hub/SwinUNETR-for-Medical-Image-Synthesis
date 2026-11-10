@@ -2,6 +2,8 @@
 
 This repository contains the implementation of **Multi-modal brain MRI synthesis based on SwinUNETR**, as described in our paper:
 
+This method ranked **2nd** in **Task 7: Synthesis (Global) - Missing MRI** of the [BraTS 2024 Challenge](https://www.synapse.org/Synapse:syn53708249/wiki/630150).
+
 > **Multi-modal brain MRI synthesis based on SwinUNETR**  
 > Haowen Pang, Weiyan Guo, Chuyang Ye  
 > *International Conference on Medical Image Computing and Computer-Assisted Intervention, pp. 486–494, 2024*
